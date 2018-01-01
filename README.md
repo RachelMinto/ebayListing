@@ -14,7 +14,7 @@ Database: mysql2
 # TODO
 
 [x] Set up mysql2
-[ ] Set up react for root page
+[x] Set up react for root page
 [ ] Set up login table
 [ ] Routes for /register /login
 [ ] View for /register
