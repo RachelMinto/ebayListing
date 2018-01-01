@@ -20,8 +20,18 @@ body {
   display: flex;
 }
 
+.container--contents-centered {
+  @extend .container;
+  flex-direction: column;
+  align-items: center;
+}
+
 .container--filled {
-  background: $secondary-color;
+   background: $secondary-color;
+ }
+
+.container--opaque {
+  background: $secondary-color--opaque;
 }
 
 .padded--lg {
@@ -34,6 +44,10 @@ body {
 
 .padded--sm {
   padding: 1em;
+}
+
+.padded-rect--sm {
+  padding: 0.5em 1em;
 }
 
 .centered {

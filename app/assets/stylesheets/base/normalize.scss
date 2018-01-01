@@ -11,3 +11,8 @@ mark {
   background: transparent; }
 abbr { border: none; }
 summary::-webkit-details-marker { display: none; }
+hr {
+  margin-left: 0;
+  margin-right: 0;
+  width: 100%;
+}

@@ -27,3 +27,5 @@
 
 #Ignore mysql2 config
 /config/database.yml
+
+.idea

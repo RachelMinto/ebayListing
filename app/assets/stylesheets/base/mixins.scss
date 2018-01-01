@@ -4,8 +4,13 @@ $base-color: #3D3D3D;
 
 $secondary-color: #4D9CAD;
 
-$secondary-color--1: darken($secondary-color, 10%);
-$secondary-color--2: darken($secondary-color, 20%);
+$secondary-color--opaque: transparentize($secondary-color, .8);
+$secondary-color--1: lighten($secondary-color, 20%);
+$secondary-color--2: lighten($secondary-color, 10%);
+$secondary-color--4: darken($secondary-color, 10%);
+$secondary-color--5: darken($secondary-color, 20%);
+
+$white: #ffffff;
 
 $playfair-display: 'Playfair Display', serif;
 $open-sans: 'Open Sans', sans-serif;
