@@ -9,7 +9,7 @@ Database: mysql2
 
 #Get started
 - run `foreman start`
-- visit `localhost:3000`
+- visit `localhost:5000`
 
 # TODO
 
