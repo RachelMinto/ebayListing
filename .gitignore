@@ -24,3 +24,6 @@
 /public/packs
 /public/packs-test
 /node_modules
+
+#Ignore mysql2 config
+/config/database.yml
