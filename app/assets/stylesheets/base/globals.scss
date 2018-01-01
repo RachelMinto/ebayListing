@@ -14,3 +14,11 @@
   width: 80%;
   margin: 0 auto;
 }
+
+.container--filled {
+  background: $secondary-color;
+}
+
+.container--padded {
+  padding: 2em;
+}

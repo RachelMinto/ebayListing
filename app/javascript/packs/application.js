@@ -35,7 +35,7 @@ import Main from "../components/Main";
 
 const App = () => (
   <div>
-    {/*<Header />*/}
+    <Header />
     <Main />
   </div>
 )
