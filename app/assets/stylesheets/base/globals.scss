@@ -6,8 +6,9 @@
   font-family: $playfair-display;
 }
 
-* {
+body {
   font-family: $open-sans;
+  font-size: 2vw;
 }
 
 .page {
@@ -15,10 +16,26 @@
   margin: 0 auto;
 }
 
+.container {
+  display: flex;
+}
+
 .container--filled {
   background: $secondary-color;
 }
 
-.container--padded {
+.padded--lg {
+  padding: 4em;
+}
+
+.padded--med {
   padding: 2em;
+}
+
+.padded--sm {
+  padding: 1em;
+}
+
+.centered {
+  text-align: center;
 }
