@@ -10,14 +10,37 @@
 
 // Place your DOM rendering scripts in /packs directory.
 // This folder should only contain scripts which will be rendered using <%= javascript_pack_tag %>.
+//
+// import React from 'react';
+// import { BrowserRouter } from 'react-router-dom';
+// // require ReactDOM;
+// import { render } from 'react-dom';
+// import BasicExample from '../components/App';
+// // import Header from '../components/Header';
+//
+// document.addEventListener('DOMContentLoaded', () => {
+//   const container = document.body.appendChild(document.createElement('div'));
+//   render((
+//     <BrowserRouter>
+//       <BasicExample />
+//     </BrowserRouter>
+//   ), document.getElementById('root'))
+//   // render(<Header/>, container);
+//   // render(<LandingPage/>, container);
+// });
+import React from 'react'
+import ReactDOM from 'react-dom'
+import Header from "../components/Header";
+import Main from "../components/Main";
 
-import React from 'react';
-import { render } from 'react-dom';
-import LandingPage from '../components/LandingPage';
-import Header from '../components/Header';
+const App = () => (
+  <div>
+    {/*<Header />*/}
+    <Main />
+  </div>
+)
 
-document.addEventListener('DOMContentLoaded', () => {
-  const container = document.body.appendChild(document.createElement('div'));
-  render(<Header/>, container);
-  render(<LandingPage/>, container);
-});
+
+
+// import App from '../components/App';
+ReactDOM.render(<App />, document.getElementById('root'));
