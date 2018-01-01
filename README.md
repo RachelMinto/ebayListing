@@ -8,12 +8,12 @@ Ruby Version: 2.4.
 Database: mysql2
 
 #Get started
-- `rails s` from command line
+- run `foreman start`
 - visit `localhost:3000`
 
 # TODO
 
-[ ] Set up mysql2
+[x] Set up mysql2
 [ ] Set up react for root page
 [ ] Set up login table
 [ ] Routes for /register /login

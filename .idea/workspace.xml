@@ -2,105 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5030696f-b56f-4a27-9558-ed56d4d53023" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.babelrc" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/.generators" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/.rakeTasks" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/clausmology.iml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.node-version" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.postcssrc.yml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.rspec" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.ruby-gemset" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.ruby-version" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Gemfile" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Gemfile.lock" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/README.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Rakefile" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/assets/config/manifest.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/.keep" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/assets/stylesheets/application.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/channels/application_cable/channel.rb" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/channels/application_cable/connection.rb" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/controllers/application_controller.rb" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/controllers/concerns/.keep" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/helpers/application_helper.rb" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/javascript/packs/application.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/jobs/application_job.rb" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/mailers/application_mailer.rb" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/models/application_record.rb" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/models/concerns/.keep" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/views/layouts/application.html.erb" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/views/layouts/mailer.html.erb" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/views/layouts/mailer.text.erb" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/bin/bundle" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/bin/rails" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/bin/rake" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/bin/setup" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/bin/update" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/bin/webpack" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/bin/webpack-dev-server" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/bin/yarn" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/config.ru" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/config/application.rb" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/config/boot.rb" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/config/cable.yml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/config/database.yml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/config/environment.rb" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/config/environments/development.rb" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/config/environments/production.rb" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/config/environments/test.rb" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/config/initializers/application_controller_renderer.rb" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/config/initializers/assets.rb" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/config/initializers/backtrace_silencers.rb" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/config/initializers/cookies_serializer.rb" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/config/initializers/filter_parameter_logging.rb" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/config/initializers/inflections.rb" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/config/initializers/mime_types.rb" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/config/initializers/wrap_parameters.rb" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/config/locales/en.yml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/config/puma.rb" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/config/routes.rb" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/config/secrets.yml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/config/spring.rb" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/config/webpack/development.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/config/webpack/environment.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/config/webpack/production.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/config/webpack/test.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/config/webpacker.yml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/db/seeds.rb" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lib/assets/.keep" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lib/tasks/.keep" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/log/.keep" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/package.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/public/404.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/public/422.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/public/500.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/public/apple-touch-icon-precomposed.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/public/apple-touch-icon.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/public/favicon.ico" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/public/robots.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spec/rails_helper.rb" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spec/spec_helper.rb" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spec/support/factory_bot.rb" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/test/application_system_test_case.rb" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/test/controllers/.keep" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/test/fixtures/.keep" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/test/fixtures/files/.keep" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/test/helpers/.keep" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/test/integration/.keep" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/test/mailers/.keep" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/test/models/.keep" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/test/system/.keep" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/test/test_helper.rb" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tmp/.keep" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendor/.keep" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" afterPath="" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Procfile" />
+      <change beforePath="$PROJECT_DIR$/.idea/clausmology.iml" afterPath="$PROJECT_DIR$/.idea/clausmology.iml" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/Gemfile" afterPath="$PROJECT_DIR$/Gemfile" />
+      <change beforePath="$PROJECT_DIR$/Gemfile.lock" afterPath="$PROJECT_DIR$/Gemfile.lock" />
+      <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change beforePath="$PROJECT_DIR$/bin/bundle" afterPath="$PROJECT_DIR$/bin/bundle" />
     </list>
     <ignored path="$PROJECT_DIR$/.bundle/" />
     <ignored path="$PROJECT_DIR$/components/" />
@@ -120,62 +28,54 @@
       <file leaf-file-name="Gemfile" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Gemfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="317">
-              <caret line="22" column="13" lean-forward="false" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+            <state relative-caret-position="150">
+              <caret line="10" column="11" lean-forward="false" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".node-version" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.node-version">
+      <file leaf-file-name="database.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/database.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="90">
+              <caret line="6" column="11" lean-forward="false" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".ruby-version" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.ruby-version">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="factory_bot.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spec/support/factory_bot.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="3" lean-forward="true" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="application_controller.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/controllers/application_controller.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="420">
-                <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+              <first_editor relative-caret-position="165">
+                <caret line="11" column="22" lean-forward="true" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
                 <folding />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/javascript/packs/application.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Procfile" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Procfile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="35" lean-forward="false" selection-start-line="1" selection-start-column="35" selection-end-line="1" selection-end-column="35" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -193,11 +93,12 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/spec/support/factory_bot.rb" />
-        <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/config/database.yml" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/config/database.yml" />
+        <option value="$PROJECT_DIR$/Gemfile" />
+        <option value="$PROJECT_DIR$/Procfile" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -241,9 +142,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="RailsProjectView" />
       <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="RailsProjectView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -394,18 +295,20 @@
       <updated>1514663757570</updated>
       <workItem from="1514663758891" duration="378000" />
       <workItem from="1514664175420" duration="1070000" />
-      <workItem from="1514811503694" duration="2443000" />
+      <workItem from="1514811503694" duration="2504000" />
+      <workItem from="1514814581908" duration="613000" />
+      <workItem from="1514815446004" duration="230000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3891000" />
+    <option name="totallyTimeSpent" value="4795000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="68" width="1680" height="932" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25579977" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26190478" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -439,6 +342,59 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="11" lean-forward="false" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/database.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="11" lean-forward="false" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="240">
+            <caret line="16" column="19" lean-forward="true" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/javascript/packs/application.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="13" lean-forward="false" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/database.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="516">
+          <caret line="22" column="16" lean-forward="true" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="540">
           <caret line="36" column="3" lean-forward="false" selection-start-line="36" selection-start-column="3" selection-end-line="36" selection-end-column="3" />
           <folding />
@@ -449,7 +405,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" column="3" lean-forward="false" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -457,15 +412,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" column="3" lean-forward="true" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/application_controller.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -473,34 +419,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="420">
-            <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/database.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="16" lean-forward="true" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Gemfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="317">
-          <caret line="22" column="13" lean-forward="false" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -508,15 +426,65 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
           <caret line="28" column="20" lean-forward="false" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/application_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.node-version">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="15">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="11" lean-forward="false" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/database.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="11" lean-forward="false" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/javascript/packs/application.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Procfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="35" lean-forward="false" selection-start-line="1" selection-start-column="35" selection-end-line="1" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="165">
+            <caret line="11" column="22" lean-forward="true" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
