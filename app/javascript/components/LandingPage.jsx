@@ -44,7 +44,7 @@ export default class LandingPage extends React.Component {
               <li>2. Right click on the image and select 'Copy Image Address'</li>
               <li>3. Paste the copied url from your clipboard into the box below</li>
               <li>4. Add the generated HTML to the{' '}
-                <a href="https://jsfiddle.net/RachelMinto/btf2j8po/">JSFiddle</a>
+                <a href="https://jsfiddle.net/RachelMinto/w8a7kw2w/">JSFiddle</a>
                 {' '}beneath "Add Images Below Here"
               </li>
               <li>5. Paste in the ebay HTML editor using Option+Shift+Command+V</li>
