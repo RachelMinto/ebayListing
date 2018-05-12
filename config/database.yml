@@ -3,7 +3,7 @@ development:
   encoding: unicode
   database: ebay_development
   pool: 5
-  username: myapp
+  username: rachelminto
   password:
 
 test:
@@ -11,15 +11,5 @@ test:
   encoding: unicode
   database: ebay_test
   pool: 5
-  username: myapp
+  username: rachelminto
   password:
-
-production:
-  adapter: postgresql
-  encoding: unicode
-  database: ebay
-  pool: 20
-  encoding: utf8
-  username: root
-  password:
-  host: https://ebay-description.herokuapp.com/
