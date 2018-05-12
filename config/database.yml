@@ -1,28 +1,25 @@
 development:
-  adapter: mysql2
+  adapter: postgresql
+  encoding: unicode
   database: ebay_development
-  pool: 20
-  encoding: utf8
-  username: root
+  pool: 5
+  username: myapp
   password:
-  host:  localhost
 
 test:
-  adapter: mysql2
+  adapter: postgresql
+  encoding: unicode
   database: ebay_test
-  pool: 20
-  encoding: utf8
-  username: root
+  pool: 5
+  username: myapp
   password:
-  host:  localhost
 
 production:
-  adapter: mysql2
+  adapter: postgresql
+  encoding: unicode
   database: ebay
   pool: 20
   encoding: utf8
   username: root
   password:
-  host:  mydomain.com
-
-
+  host: https://ebay-description.herokuapp.com/
