@@ -13,3 +13,11 @@ test:
   pool: 5
   username: rachelminto
   password:
+
+production:
+  adapter: postgresql
+  encoding: unicode
+  database: ebay_production
+  pool: 5
+  username: default
+  password:
