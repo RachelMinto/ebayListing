@@ -1,0 +1,28 @@
+development:
+  adapter: mysql2
+  database: ebay_development
+  pool: 20
+  encoding: utf8
+  username: root
+  password:
+  host:  localhost
+
+test:
+  adapter: mysql2
+  database: ebay_test
+  pool: 20
+  encoding: utf8
+  username: root
+  password:
+  host:  localhost
+
+production:
+  adapter: mysql2
+  database: ebay
+  pool: 20
+  encoding: utf8
+  username: root
+  password:
+  host:  mydomain.com
+
+
