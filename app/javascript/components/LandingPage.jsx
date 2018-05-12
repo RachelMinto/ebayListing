@@ -16,7 +16,16 @@ export default class LandingPage extends React.Component {
   generateHTML = (e) => {
     e.preventDefault();
     const imgURL = $("input#img-1").val();
-    const imgHTML = `<div style="text-align: center; margin-top: 20px;">  <img src="${imgURL}"></div>`
+    const imageWidth = $("input#img-width").val();
+    let styles = '';
+
+    if (imageWidth) {
+      styles = `width: ${imageWidth}; max-width: 100%`
+    } else {
+      styles = `max-width: 100%`
+    }
+
+    const imgHTML = `<div style="text-align: center; margin-top: 20px;">  <img src="${imgURL}" style="${styles}"></div>`
 
     this.setState({ imageHTML: imgHTML });
   };
@@ -34,20 +43,32 @@ export default class LandingPage extends React.Component {
               <li>1. Visit a page on the internet that has your image.</li>
               <li>2. Right click on the image and select 'Copy Image Address'</li>
               <li>3. Paste the copied url from your clipboard into the box below</li>
+              <li>4. Add the generated HTML to the{' '}
+                <a href="https://jsfiddle.net/RachelMinto/btf2j8po/">JSFiddle</a>
+                {' '}beneath "Add Images Below Here"
+              </li>
+              <li>5. Paste in the ebay HTML editor using Option+Shift+Command+V</li>
             </ol>
           </div>
           <div className="padded--sm container">
             <form>
               <label>
                 Image url
-                <input id="img-1" type="text" style={{width: '300px'}}>
+                <input id="img-1" type="text" style={{width: '300px', marginLeft: '20px'}}>
                 </input>
               </label>
-              <button type="submit" onClick={this.generateHTML}>Submit</button>
+              <br/>
+              <label>
+                Image max width (optional, eg 400px)
+                <input id="img-width" type="text" style={{width: '300px', marginLeft: '20px'}}>
+                </input>
+              </label>
+              <br/>
+              <button type="submit" onClick={this.generateHTML} style={{marginTop: '20px'}}>Submit</button>
             </form>
           </div>
 
-          <div>{this.state.imageHTML}</div>
+          <div style={{background: '#ededed'}}>{this.state.imageHTML}</div>
         </div>
       </div>
     );
