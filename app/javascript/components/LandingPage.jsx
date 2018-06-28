@@ -37,7 +37,7 @@ export default class LandingPage extends React.Component {
           <h4 className="text--header">
             Ebay Description Image Maker
           </h4>
-          <hr></hr>
+          <hr/>
           <div className="padded--sm">
             <ol>
               <li>1. Visit a page on the internet that has your image.</li>
@@ -68,7 +68,7 @@ export default class LandingPage extends React.Component {
             </form>
           </div>
 
-          <div style={{background: '#ededed'}}>{this.state.imageHTML}</div>
+          <div style={{border: '2px solid #ededed', padding: '4px', width: '1000px'}}>{this.state.imageHTML}</div>
         </div>
       </div>
     );
