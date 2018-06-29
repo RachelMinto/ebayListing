@@ -59,8 +59,8 @@ export default class LandingPage extends React.Component {
               </label>
               <br/>
               <label>
-                Image max width (optional, eg 400px)
-                <input id="img-width" type="text" style={{width: '300px', marginLeft: '20px'}}>
+                Image max width (optional)
+                <input id="img-width" type="text" style={{width: '300px', marginLeft: '20px'}} placeholder="You can type something like 300px or 400px here.">
                 </input>
               </label>
               <br/>
